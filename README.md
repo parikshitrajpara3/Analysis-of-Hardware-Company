@@ -1,4 +1,4 @@
-# README: Financial Analysis Project Using Microsoft Excel  
+# Financial Analysis Project Using Microsoft Excel  
 
 ## Project Overview  
 This project focuses on performing comprehensive financial analysis for a company, leveraging the powerful features of **Microsoft Excel**. The analysis provides granular insights into **revenue streams, expense categories**, and critical **financial metrics**, ultimately contributing to improved decision-making and increased profit margins.
